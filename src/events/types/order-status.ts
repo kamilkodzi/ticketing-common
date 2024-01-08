@@ -1,4 +1,4 @@
-export enum OrderStatus {
+export const enum OrderStatus {
   // When order has been created, but the
   // ticket it is trying to order hos not been reserved
   Created = 'created',
